@@ -1,0 +1,154 @@
+{
+  "document_type": "CV",
+  "language": "id",
+  "source_file": "GALEH RISKI PRASETIO.txt",
+  "personal_info": {
+    "full_name": "GALEH RISKI PRASETIO",
+    "phone": "085 194 194 479",
+    "email": "galehriskiprasetyo@gmail.com",
+    "location": "Surabaya, Jawa Timur"
+  },
+  "profile": "Lulusan Akuntansi SMK Negeri 10 Surabaya dengan nilai Ijazah 89.36, bersertifikasi BNSP Akuntansi dengan pengalaman magang selama 6 bulan di Universitas Surabaya di bidang Administrasi Keuangan dan Kasir. Memiliki keahlian tinggi dalam pengolahan data keuangan menggunakan Microsoft Excel, Google Sheet, Accurate, MYOB dan Software Akuntansi Perusahaan. Terbukti teliti mengelola 1.000+ arsip dokumen serta berhasil melakukan rekonsiliasi bank dengan tingkat akurasi tinggi.",
+  "skills": {
+    "technical": [
+      {
+        "category": "Akuntansi",
+        "details": [
+          "Pencatatan transaksi harian",
+          "jurnal",
+          "buku besar",
+          "hingga laporan keuangan"
+        ]
+      },
+      {
+        "category": "Administrasi Keuangan",
+        "details": [
+          "Pengelolaan kas kecil",
+          "pencatatan biaya operasional"
+        ]
+      },
+      {
+        "category": "Aplikasi",
+        "details": [
+          "Microsoft Excel",
+          "Word",
+          "PowerPoint",
+          "Google Sheet",
+          "Accurate",
+          "MYOB"
+        ]
+      },
+      {
+        "category": "Kas & Bank",
+        "details": [
+          "Validasi kas harian",
+          "validasi Bon Sementara",
+          "rekonsiliasi mutasi rekening"
+        ]
+      },
+      {
+        "category": "Manajemen Dokumen & Inventori",
+        "details": [
+          "Pengarsipan",
+          "pencatatan dan pelacakan dokumen keuangan"
+        ]
+      },
+      {
+        "category": "Perpajakan",
+        "details": [
+          "Perhitungan dan pelaporan PPh serta PPN sesuai ketentuan"
+        ]
+      }
+    ],
+    "personal": [
+      "Bertanggung jawab dan mampu menjaga kerahasiaan data perusahaan.",
+      "Mampu bekerja dalam tim maupun individu.",
+      "Komunikatif dengan rekan kerja dan atasan.",
+      "Mudah beradaptasi dengan lingkungan dan tugas baru.",
+      "Mampu mengatur prioritas agar pekerjaan selesai tepat waktu."
+    ]
+  },
+  "internships": [
+    {
+      "title": "Staf Keuangan",
+      "organization": "Universitas Surabaya",
+      "certificate": true,
+      "period": {
+        "start": "2025-01",
+        "end": "2025-04",
+        "text": "Januari 2025 - April 2025"
+      },
+      "responsibilities": [
+        "Mencatat jurnal transaksi keuangan ke dalam aplikasi akuntansi internal perusahaan secara akurat.",
+        "Mengarsipkan, menandai dan melabeli 1.000+ dokumen keuangan secara sistematis.",
+        "Merekapitulasi nomor dokumen menggunakan Microsoft Excel dan Word untuk mempermudah pelacakan arsip.",
+        "Merekonsiliasi saldo rekening giro dengan mutasi bank setiap bulan, dengan tingkat akurasi ketelitian tinggi secara konsisten dalam 3 bulan berturut-turut."
+      ]
+    },
+    {
+      "title": "Staf Administrasi Kasir",
+      "organization": "Universitas Surabaya",
+      "certificate": true,
+      "period": {
+        "start": "2025-08",
+        "end": "2025-10",
+        "text": "Agustus 2025 - Oktober 2025"
+      },
+      "responsibilities": [
+        "Memvalidasi 500+ dokumen per bulan menggunakan aplikasi akuntansi perusahaan secara akurat dan tepat waktu.",
+        "Memverifikasi dan mencetak dokumen sesuai otorisasi pimpinan serta mencocokkannya dengan mutasi rekening bank.",
+        "Memvalidasi transaksi kasir harian baik langsung maupun lewat Cek melalui sistem perusahaan sesuai prosedur yang berlaku.",
+        "Memvalidasi honor Dosen mengajar kelas melalui sistem kemahasiswaan tepat waktu di setiap periode pembayaran.",
+        "Mengelola sistem penandaan dokumen (stempel dan paraf) untuk menjamin keabsahan dan kerapian arsip keuangan."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SMK Negeri 10 Surabaya",
+      "period": "2023 - 2026",
+      "major": "Akuntansi",
+      "grade": "89,36"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Medali Emas Olimpiade Sains Nasional Akuntansi",
+      "year": 2024,
+      "link_text": "Tautan",
+      "url": null
+    },
+    {
+      "name": "Juara 2 Accounting Challenge (UNTAG)",
+      "year": 2025,
+      "link_text": "Tautan",
+      "url": null
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Uji Sertifikasi Kompetensi Akuntansi (BNSP)",
+      "year": 2026,
+      "link_text": "Tautan",
+      "url": null
+    },
+    {
+      "name": "Uji Kemahiran Berbahasa Indonesia",
+      "year": 2025,
+      "link_text": "Tautan",
+      "url": null
+    },
+    {
+      "name": "Manfaat Ekonomi Standar (BSN)",
+      "year": 2026,
+      "link_text": "Tautan",
+      "url": null
+    },
+    {
+      "name": "SNI ISO 37001:2016 Sistem Manajemen Anti Penyuapan (BSN)",
+      "year": 2026,
+      "link_text": "Tautan",
+      "url": null
+    }
+  ]
+}
